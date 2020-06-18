@@ -1,0 +1,91 @@
+
+*{
+	margin: 0;
+}
+/*links*/
+
+/*header*/
+#header{
+	min-height: calc(100vh - 94px);
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(49, 170, 82, 0.65)), url(../images/background.jpg);
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: relative;
+
+}
+.banner{
+	color:white;
+}
+.height-90{
+
+	min-height: calc(100vh - 94px);
+}
+
+.primary-color{
+	text-decoration: none;
+	color:black;
+}
+.nav-link{
+	text-decoration: none;
+}
+.nav-btn{
+	background-color:  #31AA52;
+	color: white;
+}
+/*forms*/
+#form{
+	margin-top: 3rem;
+	padding:20px;
+}
+.text{
+	margin-top: 10px;
+	color: black;
+}
+/*write*/
+#write{
+	padding: 50px;
+}
+
+.py-pad{
+	padding:15px;
+}
+/*about-image*/
+.about-image{
+	width: 60vh;
+	height: 50vh;
+}
+
+/*major writeup*/
+.img{
+	width:25px;
+	height: 20px;
+	position: center;
+}
+
+.text{
+	text-align: center !important;
+}
+
+/*bottons*/
+.btn-center{
+	text-align: center;
+	background-color: #31AA52;
+	color: white;
+}
+
+/*icons*/
+.fa-sign-in{
+	color: #31AA52;
+}
+.fa-lock{
+	color: #31AA52;
+}
+.fa-unlock-alt{
+	color:  #31AA52;
+}
+
+
+
